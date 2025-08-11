@@ -23,7 +23,7 @@ Skilled in **HTML, CSS, Bootstrap, JavaScript (ES6+), TypeScript, React.js, Fire
 ### 📚 Currently Learning  
 - MERN Stack Development (Express.js, Node.js, MongoDB)  
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||///////////////////////////////////////////////////////////////
+---
 
 ### 🌐 Connect with Me  
 - 🐙 GitHub: [Haneef-Ur-Rahman](https://github.com/Haneef-Ur-Rahman)  
