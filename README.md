@@ -7,6 +7,11 @@ Skilled in **HTML, CSS, Bootstrap, JavaScript (ES6+), TypeScript, React.js, Fire
 
 ---
 
+### ✨ Highlights
+🚀 Built 10+ web applications | 🌍 Contributions in open-source | 📈 Internship experience in **MERN Stack**
+
+---
+
 ### 🚀 Experience  
 - 💻 Full MERN Stack Developer (Intern) – Saylani Mass I.T Training  
 - 🖥️ Frontend Web Developer (Intern) – Digital Empowerment Network  
