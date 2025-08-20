@@ -8,7 +8,7 @@ Skilled in **HTML, CSS, Bootstrap, JavaScript (ES6+), TypeScript, React.js, Fire
 ---
 
 ### ✨ Highlights
-🚀 Built 10+ web applications | 🌍 Contributions in open-source | 📈 Internship experience in **MERN Stack**
+🚀 Built 15+ web applications | 🌍 Contributions in open-source | 📈 Internship experience in **MERN Stack**
 
 ---
 
