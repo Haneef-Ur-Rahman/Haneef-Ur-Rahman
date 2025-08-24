@@ -1,5 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/Haneef-Ur-Rahman/Haneef-Ur-Rahman/main/assets/LinkedIn%20Banner4.png)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Haneef-Ur-Rahman&color=blue&style=flat-square) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Haneef-Ur-Rahman.Haneef-Ur-Rahman)
 
 <h1 align="center">Hi 👋, I'm Haneef Ur Rahman</h1>
 <h3 align="center">FrontEnd Engineer</h3>
@@ -46,7 +47,5 @@ and also proficient in **PHP, MySQL, Figma**, with working knowledge of **Expres
 </p>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Haneef-Ur-Rahman&color=blue&style=flat-square)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Haneef-Ur-Rahman.Haneef-Ur-Rahman)
 
