@@ -20,7 +20,7 @@ and also proficient in **PHP, MySQL, Figma**, with working knowledge of **Expres
 - 💼 **LinkedIn**: [Haneef Ur Rahman](https://www.linkedin.com/in/haneef-ur-rahman/)  
 - 📂 **Portfolio**: [My Portfolio](https://haneef-ur-rahman.github.io/my-Portfolio)  
 - ✉️ **Email**: haneef04022004@gmail.com  
-- 📱 **WhatsApp**: +92 308 3336559  
+- 📱 **WhatsApp**: [+92 308 3336559](https://wa.me/923083336559)  
 - 🌐 **Linktree**: [Haneef_Ur_Rahman](https://linktr.ee/Haneef_Ur_Rahman)  
 
 ---
