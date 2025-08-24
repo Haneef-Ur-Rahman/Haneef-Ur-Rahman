@@ -1,4 +1,4 @@
-![Banner]![Banner](https://raw.githubusercontent.com/Haneef-Ur-Rahman/Haneef-Ur-Rahman/main/assets/Haneef Banner.png)
+![Banner](https://raw.githubusercontent.com/Haneef-Ur-Rahman/Haneef-Ur-Rahman/main/assets/Haneef Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Haneef Ur Rahman</h1>
