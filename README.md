@@ -44,3 +44,9 @@ and also proficient in **PHP, MySQL, Figma**, with working knowledge of **Expres
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haneef-Ur-Rahman&theme=radical" alt="streak" />
 </p>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Haneef-Ur-Rahman&color=blue&style=flat-square)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Haneef-Ur-Rahman.Haneef-Ur-Rahman)
+
