@@ -1,37 +1,45 @@
-    Hi there 👋, I'm Haneef Ur Rahman
+![Banner](https://via.placeholder.com/1200x300.png?text=Haneef+Ur+Rahman+-+FrontEnd+Engineer)
 
-## 💼 About Me  
+<h1 align="center">Hi 👋, I'm Haneef Ur Rahman</h1>
+<h3 align="center">FrontEnd Engineer</h3>
+
+---
+
+### 🚀 About Me
 I am a dedicated **Front-End Engineer** with experience in building responsive, user-focused web applications.  
-Skilled in **HTML, CSS, Bootstrap, JavaScript (ES6+), TypeScript, React.js, Firebase, REST APIs, Git, GitHub**, and also proficient in **PHP, MySQL, Figma**, with working knowledge of **Express.js, Node.js, and MongoDB**.  
-💡 Passionate about crafting clean, maintainable code and delivering seamless user experiences.
+Skilled in **HTML, CSS, Bootstrap, JavaScript (ES6+), TypeScript, React.js, Firebase, REST APIs, Git, GitHub**,  
+and also proficient in **PHP, MySQL, Figma**, with working knowledge of **Express.js, Node.js, and MongoDB**.  
+
+💡 Passionate about crafting clean, maintainable code and delivering seamless user experiences.  
 
 ---
 
-### ✨ Highlights
-🚀 Built 15+ web applications | 🌍 Contributions in open-source | 📈 Internship experience in **MERN Stack**
+### 📫 Connect with Me
+- 🐙 **GitHub**: [Haneef-Ur-Rahman](https://github.com/Haneef-Ur-Rahman)  
+- 💼 **LinkedIn**: [Haneef Ur Rahman](https://www.linkedin.com/in/haneef-ur-rahman/)  
+- 📂 **Portfolio**: [My Portfolio](https://haneef-ur-rahman.github.io/my-Portfolio)  
+- ✉️ **Email**: haneef04022004@gmail.com  
+- 📱 **WhatsApp**: +92 308 3336559  
+- 🌐 **Linktree**: [Haneef_Ur_Rahman](https://linktr.ee/Haneef_Ur_Rahman)  
 
 ---
 
-### 🚀 Experience  
-- 💻 Full MERN Stack Developer (Intern) – Saylani Mass I.T Training  
-- 🖥️ Frontend Web Developer (Intern) – Digital Empowerment Network  
-- 🖥️ Frontend Web Developer (Intern) – DevelopersHub Corporation  
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,firebase,git,github,php,mysql,figma,nodejs,express,mongodb" />
+</p>
 
 ---
 
-### 🏆 Roles & Leadership  
-- 📌 Strategic Lead – Hassan Welfare Society  
-- 🎓Ambassador – FastForward Academy  
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haneef-Ur-Rahman&show_icons=true&theme=radical" alt="stats" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haneef-Ur-Rahman&layout=compact&theme=radical" alt="langs" />
+</p>
 
-### 📚 Currently Learning  
-- MERN Stack Development (Express.js, Node.js, MongoDB)  
-
----
-
-### 🌐 Connect with Me  
-- 🐙 GitHub: [Haneef-Ur-Rahman](https://github.com/Haneef-Ur-Rahman)  
-- 💼 LinkedIn: [Haneef Ur Rahman](https://www.linkedin.com/in/haneef-ur-rahman-85006433b)  
-- 📂 Portfolio: [haneef-ur-rahman.github.io/my-Portfolio](https://haneef-ur-rahman.github.io/my-Portfolio/)  
-- ✉️ Email: haneef04022004@gmail.com
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haneef-Ur-Rahman&theme=radical" alt="streak" />
+</p>
