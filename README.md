@@ -3,13 +3,12 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Haneef Ur Rahman</h1>
-<h3 align="center">Front-End Engineer • MERN Stack Developer • CS Undergraduate</h3>
+<h3 align="center">Front-End Engineer • MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Haneef-Ur-Rahman&color=blue&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/CGPA-3.66%20%2F%204.00-success?style=flat-square" alt="CGPA" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration%20%26%20Freelance-orange?style=flat-square" alt="Open to work" />
   <img src="https://img.shields.io/badge/Location-Peshawar%2C%20Pakistan-blue?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Freelance-orange?style=flat-square" alt="Open to work" />
 </p>
 
 <p align="center">
@@ -18,21 +17,17 @@
   <a href="https://haneef-ur-rahman.github.io/my-Portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:haneef04022004@gmail.com"><img src="https://img.shields.io/badge/Email-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/923083336559"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://linktr.ee/Haneef_Ur_Rahman"><img src="https://img.shields.io/badge/Linktree-All%20Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a dedicated **Front-End Engineer** and **MERN Stack Developer** from Peshawar, Pakistan, currently pursuing **BS Computer Science (2022 – 2026)** at the **University of Peshawar** with a **CGPA of 3.66 / 4.00**.
-
-I specialize in building **responsive, accessible and user-focused web applications** using modern JavaScript/TypeScript ecosystems. I enjoy turning complex problems into clean, maintainable code and delivering seamless user experiences.
+I'm a **Front-End Engineer** and **MERN Stack Developer** who loves building responsive, accessible and user-focused web applications. I turn complex problems into clean, maintainable code and enjoy shipping products that solve real problems.
 
 - 🔭 Currently building **BiblioTrack** — a Smart Library Management System (Final Year Project)
-- 🌱 Exploring **Cloud Computing**, **AWS Fundamentals** and **Applied Machine Learning (NLP)**
-- 💼 Worked as **Web Developer** at *Digital Empowerment Network*
-- 👯 Open to collaboration on **Open Source** and **MERN** projects
+- 🌱 Exploring **Cloud Computing**, **AWS** and **Applied Machine Learning (NLP)**
+- 👯 Open to collaborate on **Open Source** and **MERN** projects
 - 💬 Ask me about **React, JavaScript, TypeScript, Tailwind, Firebase, MERN**
 - ⚡ Fun fact: I love building tools that solve real campus problems
 
@@ -62,99 +57,77 @@ I specialize in building **responsive, accessible and user-focused web applicati
 
 ---
 
-## 💼 Experience
-
-**Web Developer** — *Digital Empowerment Network*  
-`Jul 2025 – Sep 2025`
-- Developed responsive, accessible frontend interfaces using **React.js** and **Tailwind CSS**.
-- Built and maintained backend services with **Node.js, Express.js & MongoDB**, exposing RESTful APIs.
-- Integrated **Firebase** for secure user authentication and real-time data handling.
-- Collaborated in an **Agile / SCRUM** team following clean-code and Git best practices.
-
----
-
-## 🎓 Education
-
-| Degree | Institute | Duration | Result |
-|---|---|---|---|
-| **BS Computer Science** | University of Peshawar | 2022 – 2026 | CGPA: **3.66 / 4.00** |
-| **Intermediate** | PakTurk Maarif International Schools & Colleges, Peshawar | 2022 | **82.8%** |
-
----
-
 ## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
 
 ### 📚 BiblioTrack — Smart Library Management System
 *Final Year Project | MERN Stack*
 
-A full-stack departmental library system for the CS Department, University of Peshawar with **Admin** & **Student** portals.
+A full-stack digital library platform for the **Computer Science Department, University of Peshawar**, bridging physical books and digital resources in one seamless system.
 
-- Book circulation, fine management & reservations
-- AI-powered chatbot for user support
-- Automated email notifications for due-date compliance
-- Built with MERN + Agile / SCRUM practices
+- **Admin & Student portals** with secure session-based authentication
+- Smart multi-criteria search, first-come-first-served reservations
+- Automated fine calculation with **E-Challan** generation & **1-Bill** payment integration
+- **AI-powered chatbot** for library queries
+- Automated email notifications for issuance, reservations, and fines
+- Hybrid resource management (physical books + digital PDFs)
+- Built with **React, Tailwind CSS, Node.js, Express, MongoDB**, deployed on **Vercel**
 
-**Tech:** React • Node.js • Express • MongoDB
+🔗 [Live Demo](https://bibliotrack-smart-library.vercel.app/) • 📂 [Repository](https://github.com/Haneef-Ur-Rahman/bibliotrack-smart-library)
 
-</td>
-<td width="50%">
+---
 
-### 🛒 E-Commerce Website
+### ❤️ Hassan Welfare Society Website
+*React + Firebase*
+
+An informative and interactive website for **Hassan Welfare Society**, showcasing its mission, vision, members, and contribution details in a clean, modern, responsive interface.
+
+- Mission & vision sections
+- Organized members layout (executive + regular)
+- Contribution details for donations
+- Fully responsive design
+- Built with **React.js, JSX, HTML5, CSS3**, deployed on **Firebase**
+
+🔗 [Live Demo](https://fir-database1-debbe.web.app/) • 📂 [Repository](https://github.com/Haneef-Ur-Rahman/react-welfare-website)
+
+---
+
+### 🛒 E-Commerce Platform
 *4th Semester – Web Technologies*
 
-Full-stack e-commerce platform with secure cart and checkout flow.
+A full-stack e-commerce platform with a secure cart and checkout flow, built as part of the Web Technologies course.
 
 - Secure cart & checkout functionality
 - Fully responsive, mobile-first UI
-- Interactive UI with Bootstrap & vanilla JS
-
-**Tech:** React • Node.js • Bootstrap • JavaScript
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 Personal Portfolio
-A modern, responsive portfolio showcasing my projects, skills and experience.
-
-🔗 [View Live](https://haneef-ur-rahman.github.io/my-Portfolio)
-
-**Tech:** HTML • CSS • JavaScript
-
-</td>
-<td width="50%">
-
-### 📂 All Repositories
-Explore every project, experiment and open-source contribution on my GitHub.
-
-🔗 [Browse Repositories](https://github.com/Haneef-Ur-Rahman?tab=repositories)
-
-</td>
-</tr>
-</table>
+- Interactive UI with Bootstrap & vanilla JavaScript
+- **Tech:** React • Node.js • Bootstrap • JavaScript
 
 ---
 
-## 🏆 Achievements & Certifications
+### 💼 BackEnd Projects
+*Node.js / Express / MongoDB*
 
-- 🎓 **PMYLS Laptop Scheme 2025** — Awarded on academic excellence
-- 🥈 **2nd Place, Entrepreneurship Project** — Business plan for *Campus Brew* (mobile coffee & snacks service)
-- 💻 **Hackathon Participant** — Overnight *Coding Night Hackathon* by Saylani Mass IT Training
-- 📜 **Modern Web & Mobile App Development** — Saylani Mass IT Training (SMIT), Peshawar *(Sep 2024 – Mar 2026, Expected)*
+A collection of backend services and RESTful APIs built while learning and practicing server-side development.
+
+- RESTful API design
+- MongoDB integration
+- Express.js middleware and routing
+- **Tech:** Node.js • Express.js • MongoDB
+
+📂 [Repository](https://github.com/Haneef-Ur-Rahman/backEnd)
 
 ---
 
-## 🤝 Leadership & Community
+### 🧪 Practice & Learning Repos
+*TypeScript, JavaScript, HTML/CSS*
 
-- **Management Lead** — *Wrapify Labs, UOP Chapter* `Feb 2026 – Present`
-- **Event Planning & Management Member** — *CSSC (Computer Science Students Club)* `Feb 2025 – Present`
-- **Lead Volunteer** — *Saylani Welfare International Trust* `Aug 2024 – Present`
-- **Class Representative (CR)** — *Dept. of Computer Science, UOP* `Aug 2022 – Present`
+A set of repositories documenting my learning journey — from **build-practice** and **CodeAlpha tasks** to **CountryInfoHub** and other experiments.
+
+- TypeScript & modern JavaScript practice
+- Component-based UI builds
+- API integration exercises
+- **Tech:** TypeScript • JavaScript • HTML • CSS
+
+🔗 [Browse all repositories](https://github.com/Haneef-Ur-Rahman?tab=repositories)
 
 ---
 
@@ -187,5 +160,5 @@ Explore every project, experiment and open-source contribution on my GitHub.
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/Haneef-Ur-Rahman">Haneef Ur Rahman</a> — Thanks for visiting my profile!</i>
+  <i>⭐️ From <a href="https://github.com/Haneef-Ur-Rahman">Haneef Ur Rahman</a> — Thanks for visiting my portfolio!</i>
 </p>
