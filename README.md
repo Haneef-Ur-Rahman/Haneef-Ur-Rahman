@@ -1,322 +1,343 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                                                                                 -->
-<!--                  H A N E E F   U R   R A H M A N   —   P O R T F O L I O       -->
-<!--                                                                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   HANEEF UR RAHMAN  ·  Front-End Engineer  ·  MERN Stack Developer          ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+-->
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  HERO SECTION  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<img src="https://raw.githubusercontent.com/Haneef-Ur-Rahman/Haneef-Ur-Rahman/main/assets/LinkedIn%20Banner4.png" width="100%" />
-
-<br/><br/>
-
-<table width="100%">
-<tr>
-<td width="60%" valign="middle">
-
-<h1>
-  Hey there, I'm <code>Haneef Ur Rahman</code>
-</h1>
-
-<h3>Front-End Engineer &nbsp;·&nbsp; MERN Stack Developer</h3>
-
-<p>
-  I build <b>fast, responsive & user-focused</b> web applications.<br/>
-  Currently crafting <b>BiblioTrack</b> — a smart library for my university.
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Haneef-Ur-Rahman/Haneef-Ur-Rahman/main/assets/LinkedIn%20Banner4.png" width="100%" alt="Banner" />
+</div>
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              HERO SECTION                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="60%" valign="top">
+
+<br/>
+
+### Hi, I'm **Haneef Ur Rahman** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+
+<p>
+Front-End Engineer & MERN Stack Developer from Peshawar, Pakistan.<br/>
+Building fast, responsive, and user-focused web applications.
+</p>
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=8B949E&width=420&lines=Currently+building+BiblioTrack;Exploring+AWS+%26+TypeScript;Open+to+freelance+%26+internships" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 <a href="https://haneef-ur-rahman.github.io/my-Portfolio">
-  <img src="https://img.shields.io/badge/🌐_VIEW_PORTFOLIO-6C5CE7?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-&nbsp;
 <a href="mailto:haneef04022004@gmail.com">
-  <img src="https://img.shields.io/badge/📩_HIRE_ME-EA4335?style=for-the-badge&labelColor=0a0a0f" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Haneef-Ur-Rahman">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/haneef-ur-rahman/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://wa.me/923083336559">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://linktr.ee/Haneef_Ur_Rahman">
-  <img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" />
-</a>
-
-</td>
-<td width="40%" valign="middle" align="center">
-
 <a href="https://github.com/Haneef-Ur-Rahman">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2500&pause=800&color=6C5CE7&center=true&vCenter=true&width=340&height=120&lines=Front-End+Engineer;MERN+Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Open+to+Freelance+%26+Internships" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+</td>
+<td width="40%" valign="top" align="center">
+
 <br/>
 
-<img src="https://img.shields.io/badge/🟢-Available-00c853?style=for-the-badge&labelColor=0a0a0f" />
+<table bgcolor="#161b22" cellpadding="20" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/●-AVAILABLE-00c853?style=flat-square&labelColor=161b22" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Haneef-Ur-Rahman&theme=radical&no-frame=true&no-bg=true&column=2&row=2&margin-w=4&margin-h=4" width="100%" />
+**Currently Building**
+
+📚 BiblioTrack<br/>
+<sub>Smart Library System</sub>
+
+<br/>
+
+**Location**
+
+📍 Peshawar, Pakistan
+
+<br/>
+
+**CGPA**
+
+🎓 3.66 / 4.00
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
-
-<br/>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  QUICK STATS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<table width="100%">
-<tr>
-<td align="center" width="25%">
-  <h1>10<span style="color:#6C5CE7">+</span></h1>
-  <sub><b>PROJECTS BUILT</b></sub>
-</td>
-<td align="center" width="25%">
-  <h1>3.66</h1>
-  <sub><b>CGPA / 4.00</b></sub>
-</td>
-<td align="center" width="25%">
-  <h1>2026</h1>
-  <sub><b>GRADUATING</b></sub>
-</td>
-<td align="center" width="25%">
-  <h1>4<span style="color:#00D4FF">+</span></h1>
-  <sub><b>LEADERSHIP ROLES</b></sub>
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
+<br/>
 
-<br/><br/>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                             STATS BAR                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ABOUT  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<table width="100%" cellpadding="0" cellspacing="8" border="0">
+<tr>
+<td width="25%" align="center">
+<table bgcolor="#161b22" cellpadding="16" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
+<tr><td align="center">
 
-<h2 align="center">🪪 About Me</h2>
+<h2 style="margin:0">10+</h2>
+<sub><b>PROJECTS</b></sub>
+
+</td></tr>
+</table>
+</td>
+<td width="25%" align="center">
+<table bgcolor="#161b22" cellpadding="16" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
+<tr><td align="center">
+
+<h2 style="margin:0">3.66</h2>
+<sub><b>CGPA</b></sub>
+
+</td></tr>
+</table>
+</td>
+<td width="25%" align="center">
+<table bgcolor="#161b22" cellpadding="16" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
+<tr><td align="center">
+
+<h2 style="margin:0">2026</h2>
+<sub><b>GRADUATING</b></sub>
+
+</td></tr>
+</table>
+</td>
+<td width="25%" align="center">
+<table bgcolor="#161b22" cellpadding="16" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
+<tr><td align="center">
+
+<h2 style="margin:0">4+</h2>
+<sub><b>LEAD ROLES</b></sub>
+
+</td></tr>
+</table>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<table width="100%">
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              ABOUT SECTION                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## About
+
+</div>
+
+<br/>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="top" align="center">
+
+<table bgcolor="#161b22" cellpadding="24" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
+<tr><td valign="top">
 
 <p>
-  I'm a <b>Front-End Engineer</b> & <b>MERN Stack Developer</b> from Peshawar, Pakistan — currently pursuing 
-  <b>BS Computer Science</b> at the <b>University of Peshawar</b>. I love building tools that solve real problems, 
-  from campus library systems to welfare platforms.
+I'm a <b>Front-End Engineer</b> and <b>MERN Stack Developer</b> from Peshawar, Pakistan — currently pursuing <b>BS Computer Science</b> at the University of Peshawar (graduating 2026).
 </p>
 
 <p>
-  My approach is simple: <b>clean code</b>, <b>thoughtful design</b>, and <b>seamless UX</b>. I obsess over the small 
-  details that make interfaces feel right.
+I focus on building tools that solve real problems, from campus library systems to welfare platforms. My approach is guided by three principles: <b>clean code</b>, <b>thoughtful design</b>, and <b>seamless UX</b>.
 </p>
 
-<br/>
+<p>
+I care deeply about the small details that make interfaces feel right — spacing, typography, performance, and accessibility.
+</p>
 
-<table>
-<tr>
-<td>
-  
-  🔭 &nbsp; <b>Building</b> &nbsp;→&nbsp; BiblioTrack — Smart Library System
-  
-</td>
-</tr>
-<tr>
-<td>
-  
-  🌱 &nbsp; <b>Learning</b> &nbsp;→&nbsp; AWS · TypeScript · Applied ML (NLP)
-  
-</td>
-</tr>
-<tr>
-<td>
-  
-  💼 &nbsp; <b>Recent Role</b> &nbsp;→&nbsp; Web Developer @ Digital Empowerment Network
-  
-</td>
-</tr>
-<tr>
-<td>
-  
-  🤝 &nbsp; <b>Open To</b> &nbsp;→&nbsp; Freelance · Internships · Open Source
-  
-</td>
-</tr>
-<tr>
-<td>
-  
-  💬 &nbsp; <b>Ask Me About</b> &nbsp;→&nbsp; React · TS · Tailwind · MERN
-  
-</td>
-</tr>
-<tr>
-<td>
-  
-  ⚡ &nbsp; <b>Fun Fact</b> &nbsp;→&nbsp; I build campus tools before anyone asks
-  
-</td>
-</tr>
+</td></tr>
 </table>
 
 </td>
-<td width="35%" valign="top" align="center">
+<td width="40%" valign="top" align="center">
 
-<br/>
+<table bgcolor="#161b22" cellpadding="20" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
+<tr><td valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Haneef-Ur-Rahman&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=6C5CE7&icon_color=00D4FF&text_color=e8e8f0&hide=issues,contribs&show=prs_merged" width="100%" />
+<b>Quick Facts</b>
 
 <br/><br/>
 
-<b>⚡ Currently Learning</b>
+🎯 **Focus** — Frontend / Full-stack<br/><br/>
+🏫 **Study** — BS CS @ UoP<br/><br/>
+🏆 **Award** — PMYLS Laptop 2025<br/><br/>
+🥈 **Runner-up** — Entrepreneurship<br/><br/>
+🌐 **Languages** — Pashto · Urdu · English
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=aws,ts&theme=dark" height="45" />
+</td></tr>
+</table>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
+<br/>
 
-<br/><br/>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                            TECH STACK                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  TECH STACK  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<div align="center">
 
-<h2 align="center">💻 Tech Stack</h2>
+## Tech Stack
 
-<p align="center"><i>Modern, battle-tested tools I use daily</i></p>
+</div>
 
 <br/>
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="8" border="0">
 <tr>
 <td width="50%" valign="top" align="center">
 
-<h4>🎨 &nbsp; FRONTEND</h4>
+<table bgcolor="#161b22" cellpadding="20" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
+<tr><td align="center">
+
+<b>FRONTEND</b>
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logoColor=0a0a0f" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</td></tr>
+</table>
 
 </td>
 <td width="50%" valign="top" align="center">
 
-<h4>⚙️ &nbsp; BACKEND & DB</h4>
+<table bgcolor="#161b22" cellpadding="20" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
+<tr><td align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php&theme=dark" />
+<b>BACKEND & DATABASE</b>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php&theme=dark" />
+
+</td></tr>
+</table>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
 
-<h4>☁️ &nbsp; CLOUD & SERVICES</h4>
+<table bgcolor="#161b22" cellpadding="20" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
+<tr><td align="center">
 
-<img src="https://skillicons.dev/icons?i=firebase,aws&theme=dark" height="45" />
+<b>CLOUD & SERVICES</b>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=0a0a0f" />
-<img src="https://img.shields.io/badge/AWS_(Learning)-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=firebase,aws,vercel&theme=dark" />
+
+</td></tr>
+</table>
 
 </td>
 <td width="50%" valign="top" align="center">
 
-<h4>🛠️ &nbsp; TOOLS & WORKFLOW</h4>
+<table bgcolor="#161b22" cellpadding="20" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
+<tr><td align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman&theme=dark" height="45" />
+<b>TOOLS & WORKFLOW</b>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Agile-6C5CE7?style=flat-square" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman&theme=dark" />
+
+</td></tr>
+</table>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
+<br/>
 
-<br/><br/>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          FEATURED PROJECTS                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  PROJECTS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<div align="center">
 
-<h2 align="center">🚀 Selected Work</h2>
+## Featured Projects
 
-<p align="center"><i>A collection of things I've designed, coded & shipped</i></p>
+</div>
 
 <br/>
 
-<!-- ▓▓▓ PROJECT 1 — BIBLIOTRACK (FEATURED) ▓▓▓ -->
+<!-- ─────────────────── PROJECT 01 · BIBLIOTRACK ─────────────────── -->
 
-<table width="100%">
+<table bgcolor="#161b22" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
 <tr>
-<td width="100%">
+<td>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&text=📚%20BiblioTrack&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Smart%20Library%20Management%20System&descAlign=50&descSize=16&fontAlignY=40&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C5CE7&height=120&text=01%20·%20BiblioTrack&fontSize=38&fontColor=ffffff&fontAlignY=55&desc=Smart%20Library%20Management%20System&descAlignY=78&descSize=14&animation=twinkling" width="100%" />
 
-<br/>
+<table cellpadding="24" cellspacing="0" border="0" width="100%">
+<tr>
+<td>
 
-<img src="https://img.shields.io/badge/⭐_FINAL_YEAR_PROJECT-FF6B9D?style=flat-square&labelColor=0a0a0f" />
-<img src="https://img.shields.io/badge/STATUS-LIVE_✅-00c853?style=flat-square&labelColor=0a0a0f" />
-<img src="https://img.shields.io/badge/CATEGORY-Full_Stack-00D4FF?style=flat-square&labelColor=0a0a0f" />
+<img src="https://img.shields.io/badge/FINAL_YEAR_PROJECT-FF6B9D?style=flat-square" />
+<img src="https://img.shields.io/badge/LIVE-00c853?style=flat-square" />
+<img src="https://img.shields.io/badge/FULL_STACK-6C5CE7?style=flat-square" />
 
 <br/><br/>
 
-> **A full-stack digital library platform for the CS Department, University of Peshawar** — bridging physical books and digital resources in one seamless, modern system. Built as my Final Year Project.
+A full-stack digital library platform for the **Computer Science Department, University of Peshawar** — bridging physical books and digital resources in one seamless modern system.
 
-<br/>
+<br/><br/>
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="16" border="0">
 <tr>
 <td width="50%" valign="top">
 
-**✨ Highlights**
+**Key Features**
 
-- 🔐 &nbsp; **Dual Portals** — separate Admin & Student dashboards
-- 🔍 &nbsp; **Smart Search** — multi-criteria + reservations
-- 💰 &nbsp; **Auto Fines** — E-Challan & 1-Bill integration
-- 🤖 &nbsp; **AI Chatbot** — for library queries
-- 📧 &nbsp; **Email Alerts** — for issuance & due dates
-- 📖 &nbsp; **Hybrid Resources** — physical + digital PDFs
+- Dual portals — Admin & Student
+- Smart search & reservations
+- Auto fines with E-Challan
+- AI-powered chatbot
+- Email notifications
+- Hybrid physical + digital
 
 </td>
 <td width="50%" valign="top" align="center">
 
-**🧰 Stack**
+**Tech Stack**
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb&theme=dark" />
 
 <br/><br/>
 
-**🎯 Built With**
+**Deployed On**
 
-<img src="https://img.shields.io/badge/Agile-6C5CE7?style=flat-square" />
-<img src="https://img.shields.io/badge/SCRUM-FF6B9D?style=flat-square" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 
 </td>
 </tr>
@@ -324,15 +345,16 @@
 
 <br/>
 
-<p align="center">
 <a href="https://bibliotrack-smart-library.vercel.app/">
-  <img src="https://img.shields.io/badge/🔗_LIVE_DEMO-Visit_Site-6C5CE7?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/View_Live_Demo-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-&nbsp;&nbsp;
 <a href="https://github.com/Haneef-Ur-Rahman/bibliotrack-smart-library">
-  <img src="https://img.shields.io/badge/📂_VIEW_SOURCE-181717?style=for-the-badge&logo=github&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</p>
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -340,56 +362,52 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1" width="80%" />
+<!-- ─────────────────── PROJECT 02 · HASSAN WELFARE ─────────────────── -->
 
-<br/>
-
-<!-- ▓▓▓ PROJECT 2 — HASSAN WELFARE ▓▓▓ -->
-
-<table width="100%">
+<table bgcolor="#161b22" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
 <tr>
-<td width="100%">
+<td>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=140&text=❤️%20Hassan%20Welfare&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Non-Profit%20Web%20Platform&descAlign=50&descSize=16&fontAlignY=40&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B9D&height=120&text=02%20·%20Hassan%20Welfare&fontSize=38&fontColor=ffffff&fontAlignY=55&desc=Non-Profit%20Web%20Platform&descAlignY=78&descSize=14&animation=twinkling" width="100%" />
 
-<br/>
+<table cellpadding="24" cellspacing="0" border="0" width="100%">
+<tr>
+<td>
 
-<img src="https://img.shields.io/badge/STATUS-LIVE_✅-00c853?style=flat-square&labelColor=0a0a0f" />
-<img src="https://img.shields.io/badge/CATEGORY-Frontend-00D4FF?style=flat-square&labelColor=0a0a0f" />
-<img src="https://img.shields.io/badge/HOSTED_ON-Firebase-FFCA28?style=flat-square&logo=firebase&labelColor=0a0a0f" />
+<img src="https://img.shields.io/badge/LIVE-00c853?style=flat-square" />
+<img src="https://img.shields.io/badge/FRONTEND-00D4FF?style=flat-square" />
+<img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat-square" />
 
 <br/><br/>
 
-> **A modern, responsive website for Hassan Welfare Society** — showcasing its mission, vision, team members, and contribution details through a clean, engaging interface.
+A modern, responsive website for **Hassan Welfare Society** — showcasing its mission, vision, team members, and contribution details through a clean, engaging interface.
 
-<br/>
+<br/><br/>
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="16" border="0">
 <tr>
 <td width="50%" valign="top">
 
-**✨ Highlights**
+**Key Features**
 
-- 🎯 &nbsp; **Mission & Vision** — clear, structured sections
-- 👥 &nbsp; **Team Showcase** — executive + regular members
-- 💝 &nbsp; **Donation Flow** — contribution details
-- 📱 &nbsp; **Mobile-First** — fully responsive design
-- 🔥 &nbsp; **Firebase Hosting** — fast, secure delivery
+- Mission & vision sections
+- Team member showcase
+- Donation contribution flow
+- Fully responsive design
+- Fast Firebase hosting
 
 </td>
 <td width="50%" valign="top" align="center">
 
-**🧰 Stack**
+**Tech Stack**
 
 <img src="https://skillicons.dev/icons?i=react,firebase,html,css&theme=dark" />
 
 <br/><br/>
 
-**🎯 Focus Areas**
+**Deployed On**
 
-<img src="https://img.shields.io/badge/UI%2FUX-FF6B9D?style=flat-square" />
-<img src="https://img.shields.io/badge/Responsive-6C5CE7?style=flat-square" />
-<img src="https://img.shields.io/badge/Social_Impact-00D4FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=0a0a0f" />
 
 </td>
 </tr>
@@ -397,15 +415,16 @@
 
 <br/>
 
-<p align="center">
 <a href="https://fir-database1-debbe.web.app/">
-  <img src="https://img.shields.io/badge/🔗_LIVE_DEMO-Visit_Site-6C5CE7?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/View_Live_Demo-6C5CE7?style=for-the-badge&logo=firebase&logoColor=white" />
 </a>
-&nbsp;&nbsp;
 <a href="https://github.com/Haneef-Ur-Rahman/react-welfare-website">
-  <img src="https://img.shields.io/badge/📂_VIEW_SOURCE-181717?style=for-the-badge&logo=github&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</p>
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -413,129 +432,221 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1" width="80%" />
+<!-- ─────────────────── PROJECT 03 & 04 ─────────────────── -->
 
-<br/>
-
-<!-- ▓▓▓ MORE PROJECTS — 2×2 GRID ▓▓▓ -->
-
-<h3 align="center">📂 More Projects</h3>
-
-<br/>
-
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="8" border="0">
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,20,6&height=80&text=🛒%20E-Commerce&fontSize=26&fontColor=ffffff" width="100%" />
-
-<br/>
-
-**Full-stack shop with secure checkout**
-
-- 🛒 Secure cart & checkout
-- 📱 Mobile-first responsive UI
-- ⚡ Interactive frontend
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap&theme=dark" height="32" />
-
-<br/>
-
-<a href="https://github.com/Haneef-Ur-Rahman?tab=repositories">
-  <img src="https://img.shields.io/badge/View_Repo-6C5CE7?style=flat-square&labelColor=0a0a0f" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,6,11&height=80&text=🗄️%20BackEnd%20APIs&fontSize=26&fontColor=ffffff" width="100%" />
-
-<br/>
-
-**Server-side services & REST APIs**
-
-- 🔌 RESTful API design
-- 🗄️ MongoDB + Express
-- 🛡️ Middleware & auth
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" height="32" />
-
-<br/>
-
-<a href="https://github.com/Haneef-Ur-Rahman/backEnd">
-  <img src="https://img.shields.io/badge/View_Repo-6C5CE7?style=flat-square&labelColor=0a0a0f" />
-</a>
-
-</td>
-</tr>
+<table bgcolor="#161b22" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20,11&height=80&text=🌐%20Portfolio&fontSize=26&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00D4FF&height=70&text=03%20·%20E-Commerce&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%" />
 
-<br/>
+<table cellpadding="20" cellspacing="0" border="0" width="100%">
+<tr>
+<td>
 
-**My personal portfolio website**
-
-- 🎨 Modern UI design
-- ⚡ Lightning fast
-- 📱 Fully responsive
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="32" />
-
-<br/>
-
-<a href="https://haneef-ur-rahman.github.io/my-Portfolio">
-  <img src="https://img.shields.io/badge/Live_Site-FF5722?style=flat-square&labelColor=0a0a0f" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,6,20&height=80&text=🧪%20Practice&fontSize=26&fontColor=ffffff" width="100%" />
-
-<br/>
-
-**Learning & experimentation repos**
-
-- 📘 TypeScript practice
-- 🎯 CodeAlpha tasks
-- 🌍 CountryInfoHub
-
-<img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" height="32" />
-
-<br/>
-
-<a href="https://github.com/Haneef-Ur-Rahman?tab=repositories">
-  <img src="https://img.shields.io/badge/Browse_All-6C5CE7?style=flat-square&labelColor=0a0a0f" />
-</a>
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
+Full-stack e-commerce platform with secure cart and checkout flow.
 
 <br/><br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ACHIEVEMENTS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+**Highlights**
 
-<h2 align="center">🏆 Achievements</h2>
+- Secure cart & checkout
+- Mobile-first UI
+- Interactive frontend
 
 <br/>
 
-<table width="100%">
+<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap&theme=dark" height="35" />
+
+<br/><br/>
+
+<a href="https://github.com/Haneef-Ur-Rahman?tab=repositories">
+  <img src="https://img.shields.io/badge/View_Repo-6C5CE7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+<td width="50%" valign="top">
+
+<table bgcolor="#161b22" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
 <tr>
-<td width="33%" align="center" valign="top">
+<td>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C5CE7&height=70&text=04%20·%20BackEnd%20APIs&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%" />
+
+<table cellpadding="20" cellspacing="0" border="0" width="100%">
+<tr>
+<td>
+
+Collection of server-side services and RESTful APIs.
+
+<br/><br/>
+
+**Highlights**
+
+- RESTful API design
+- MongoDB integration
+- Auth & middleware
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" height="35" />
+
+<br/><br/>
+
+<a href="https://github.com/Haneef-Ur-Rahman/backEnd">
+  <img src="https://img.shields.io/badge/View_Repo-6C5CE7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─────────────────── PROJECT 05 & 06 ─────────────────── -->
+
+<table width="100%" cellpadding="0" cellspacing="8" border="0">
+<tr>
+<td width="50%" valign="top">
+
+<table bgcolor="#161b22" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
+<tr>
+<td>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00c853&height=70&text=05%20·%20Portfolio&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%" />
+
+<table cellpadding="20" cellspacing="0" border="0" width="100%">
+<tr>
+<td>
+
+My personal portfolio website — clean, fast, and fully responsive.
+
+<br/><br/>
+
+**Highlights**
+
+- Modern UI design
+- Lightning fast
+- Fully responsive
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="35" />
+
+<br/><br/>
+
+<a href="https://haneef-ur-rahman.github.io/my-Portfolio">
+  <img src="https://img.shields.io/badge/View_Live-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+<td width="50%" valign="top">
+
+<table bgcolor="#161b22" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
+<tr>
+<td>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B9D&height=70&text=06%20·%20Practice%20Repos&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%" />
+
+<table cellpadding="20" cellspacing="0" border="0" width="100%">
+<tr>
+<td>
+
+TypeScript, JavaScript, and component-building exercises.
+
+<br/><br/>
+
+**Highlights**
+
+- TypeScript practice
+- CodeAlpha tasks
+- CountryInfoHub
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" height="35" />
+
+<br/><br/>
+
+<a href="https://github.com/Haneef-Ur-Rahman?tab=repositories">
+  <img src="https://img.shields.io/badge/Browse_All-6C5CE7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                             ACHIEVEMENTS                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## Achievements
+
+</div>
+
+<br/>
+
+<table width="100%" cellpadding="0" cellspacing="8" border="0">
+<tr>
+<td width="33%" align="center">
+
+<table bgcolor="#161b22" cellpadding="24" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
+<tr><td align="center">
 
 <h1>🎓</h1>
 
 **PMYLS Laptop Scheme**
 
-<sub>2025 · Academic Excellence Award</sub>
+<sub>2025 · Academic Excellence</sub>
+
+</td></tr>
+</table>
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="33%" align="center">
+
+<table bgcolor="#161b22" cellpadding="24" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
+<tr><td align="center">
 
 <h1>🥈</h1>
 
@@ -543,8 +654,14 @@
 
 <sub>Business Plan · Campus Brew</sub>
 
+</td></tr>
+</table>
+
 </td>
-<td width="33%" align="center" valign="top">
+<td width="33%" align="center">
+
+<table bgcolor="#161b22" cellpadding="24" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
+<tr><td align="center">
 
 <h1>💻</h1>
 
@@ -552,146 +669,221 @@
 
 <sub>Coding Night · Saylani Mass IT</sub>
 
-</td>
-</tr>
+</td></tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
-
-<br/><br/>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  EXPERIENCE  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<h2 align="center">💼 Experience & Journey</h2>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="20%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/2025-6C5CE7?style=for-the-badge&labelColor=0a0a0f" />
-
-</td>
-<td width="80%" valign="top">
-
-### 💼 Web Developer
-**Digital Empowerment Network** · *Jul – Sep 2025*
-
-<sub>Built responsive UIs with React + Tailwind · Developed backend services · Integrated Firebase auth · Agile workflow</sub>
-
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="20%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/2026-FF6B9D?style=for-the-badge&labelColor=0a0a0f" />
-
-</td>
-<td width="80%" valign="top">
-
-### 👑 Management Lead
-**Wrapify Labs, UOP Chapter** · *Feb 2026 – Present*
-
-<sub>Lead team for chapter events · Manage logistics of workshops & competitions</sub>
-
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="20%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/2025-00D4FF?style=for-the-badge&labelColor=0a0a0f" />
-
-</td>
-<td width="80%" valign="top">
-
-### 🎪 Event Committee Member
-**CSSC — Computer Science Students Club** · *Feb 2025 – Present*
-
-<sub>Organized workshops, hackathons & technical events for the CS department</sub>
-
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="20%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/2022-00c853?style=for-the-badge&labelColor=0a0a0f" />
-
-</td>
-<td width="80%" valign="top">
-
-### 🎓 BS Computer Science
-**University of Peshawar** · *2022 – 2026* · **CGPA 3.66/4.00**
-
-<sub>Web technologies · Software engineering · Databases · Applied ML (NLP, beginner)</sub>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
+<br/>
 
-<br/><br/>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              EXPERIENCE                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  GITHUB STATS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<div align="center">
 
-<h2 align="center">📊 GitHub Analytics</h2>
+## Experience
+
+</div>
 
 <br/>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Haneef-Ur-Rahman&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=6C5CE7&icon_color=00D4FF&text_color=e8e8f0&include_all_commits=true&count_private=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haneef-Ur-Rahman&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=6C5CE7&text_color=e8e8f0&langs_count=8" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Haneef-Ur-Rahman&theme=radical&hide_border=true&background=0a0a0f&stroke=6C5CE7&ring=00D4FF&fire=FF6B9D&currStreakLabel=00D4FF" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Haneef-Ur-Rahman&bg_color=0a0a0f&color=00D4FF&line=6C5CE7&point=FF6B9D&hide_border=true&area=true&custom_title=Contribution%20Activity" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
-
-<br/><br/>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  CONTACT  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<h2 align="center">📫 Let's Build Something Great</h2>
-
-<p align="center"><i>Have a project, a role, or just want to say hi? I'm always open.</i></p>
-
-<br/>
-
-<table width="100%">
+<table bgcolor="#161b22" cellpadding="24" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
 <tr>
-<td align="center" width="50%">
+<td>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="25%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/2025-6C5CE7?style=for-the-badge" />
+
+</td>
+<td width="75%" valign="top">
+
+### Web Developer · Digital Empowerment Network
+
+<sub>July 2025 – September 2025</sub>
+
+Built responsive UIs with React & Tailwind, developed backend services with Node/Express/MongoDB, integrated Firebase authentication, and followed Agile/SCRUM workflow.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="25%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/2026-FF6B9D?style=for-the-badge" />
+
+</td>
+<td width="75%" valign="top">
+
+### Management Lead · Wrapify Labs, UOP Chapter
+
+<sub>February 2026 – Present</sub>
+
+Lead team for university chapter events, managing logistics, planning, and execution of workshops and competitions.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="25%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/2025-00D4FF?style=for-the-badge" />
+
+</td>
+<td width="75%" valign="top">
+
+### Event Committee · CSSC — Computer Science Students Club
+
+<sub>February 2025 – Present</sub>
+
+Organized workshops, hackathons, and technical events for the Computer Science department.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="25%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/2022-00c853?style=for-the-badge" />
+
+</td>
+<td width="75%" valign="top">
+
+### BS Computer Science · University of Peshawar
+
+<sub>2022 – 2026 · CGPA 3.66 / 4.00</sub>
+
+Web technologies, software engineering, databases, and applied machine learning (NLP, beginner).
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                           GITHUB STATS                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## GitHub Analytics
+
+</div>
+
+<br/>
+
+<table width="100%" cellpadding="0" cellspacing="8" border="0">
+<tr>
+<td width="50%" align="center">
+
+<table bgcolor="#161b22" cellpadding="16" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
+<tr><td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Haneef-Ur-Rahman&show_icons=true&theme=radical&hide_border=true&bg_color=161b22&title_color=6C5CE7&icon_color=00D4FF&text_color=e6edf3&include_all_commits=true&count_private=true" width="100%" />
+
+</td></tr>
+</table>
+
+</td>
+<td width="50%" align="center">
+
+<table bgcolor="#161b22" cellpadding="16" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
+<tr><td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haneef-Ur-Rahman&layout=compact&theme=radical&hide_border=true&bg_color=161b22&title_color=6C5CE7&text_color=e6edf3&langs_count=8" width="100%" />
+
+</td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table bgcolor="#161b22" cellpadding="16" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
+<tr><td align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haneef-Ur-Rahman&theme=radical&hide_border=true&background=161b22&stroke=6C5CE7&ring=00D4FF&fire=FF6B9D&currStreakLabel=00D4FF" width="70%" />
+
+</td></tr>
+</table>
+
+<br/>
+
+<table bgcolor="#161b22" cellpadding="16" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
+<tr><td align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haneef-Ur-Rahman&bg_color=161b22&color=00D4FF&line=6C5CE7&point=FF6B9D&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" />
+
+</td></tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                             CONTACT                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## Let's Connect
+
+</div>
+
+<br/>
+
+<table bgcolor="#161b22" cellpadding="32" cellspacing="0" border="1" bordercolor="#30363d" width="100%">
+<tr>
+<td align="center">
+
+Have a project, a role, or just want to say hi?<br/>
+I'm always open to interesting conversations and new opportunities.
+
+<br/><br/>
 
 <a href="mailto:haneef04022004@gmail.com">
-  <img src="https://img.shields.io/badge/📩_Email-haneef04022004@gmail.com-EA4335?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/Email-haneef04022004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br/><br/>
-
 <a href="https://wa.me/923083336559">
-  <img src="https://img.shields.io/badge/💬_WhatsApp-+92_308_3336559-25D366?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/WhatsApp-+92_308_3336559-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-
-</td>
-<td align="center" width="50%">
-
 <a href="https://www.linkedin.com/in/haneef-ur-rahman/">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-haneef--ur--rahman-0A66C2?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/LinkedIn-haneef--ur--rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
 
+<a href="https://haneef-ur-rahman.github.io/my-Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://linktr.ee/Haneef_Ur_Rahman">
+  <img src="https://img.shields.io/badge/Linktree-All_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+</a>
 <a href="https://github.com/Haneef-Ur-Rahman?tab=repositories">
-  <img src="https://img.shields.io/badge/📂_All_Repos-Browse_Now-181717?style=for-the-badge&logo=github&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/GitHub-All_Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -700,4 +892,8 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=28&fontColor=ffffff&animation=twinkling" width="100%" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C5CE7&height=100&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" />
+
+</div>
