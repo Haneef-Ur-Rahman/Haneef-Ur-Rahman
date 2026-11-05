@@ -1,24 +1,56 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                  HANEEF UR RAHMAN · PORTFOLIO README                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                    HANEEF UR RAHMAN · PORTFOLIO README                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Haneef-Ur-Rahman/Haneef-Ur-Rahman/main/assets/LinkedIn%20Banner4.png" width="100%" alt="Banner" />
-</div>
+<!-- ░░░░░░░░░░░░░░░  PAGE BACKGROUND WRAPPER  ░░░░░░░░░░░░░░░ -->
+
+<table width="100%" bgcolor="#0d1117" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td align="center" valign="top">
+
+<br/>
+
+<table width="92%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+
+<!-- ═══════════════════════════  HERO  ═══════════════════════════ -->
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+
+<img src="https://raw.githubusercontent.com/Haneef-Ur-Rahman/Haneef-Ur-Rahman/main/assets/LinkedIn%20Banner4.png" width="100%" alt="Banner" style="border-radius: 12px;" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<div align="center">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td align="center">
 
-# Haneef Ur Rahman
+<h1>
+  <font color="#e6edf3">Haneef Ur Rahman</font>
+</h1>
 
-**Front-End Engineer · MERN Stack Developer**
+<font color="#8b949e">
+  <b>Front-End Engineer</b> &nbsp;·&nbsp; <b>MERN Stack Developer</b>
+</font>
 
-Building fast, responsive, and user-focused web applications from Peshawar, Pakistan.
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Currently+building+BiblioTrack+%E2%80%94+a+Smart+Library+System;Exploring+AWS%2C+TypeScript+%26+Applied+ML;Open+to+freelance%2C+internships+%26+open+source" alt="Typing SVG" />
+<font color="#8b949e">
+  Building fast, responsive, and user-focused web applications from Peshawar, Pakistan.
+</font>
 
-<br/>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=BS+Computer+Science+%40+University+of+Peshawar;React+%7C+TypeScript+%7C+Tailwind+%7C+Node.js;Open+to+freelance%2C+internships+%26+open+source" />
+
+<br/><br/>
 
 <a href="https://haneef-ur-rahman.github.io/my-Portfolio">
   <img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -36,47 +68,49 @@ Building fast, responsive, and user-focused web applications from Peshawar, Paki
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░  STATS  ░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════  STATS  ═══════════════════════════ -->
 
-<table width="100%" cellpadding="0" cellspacing="6" border="0">
+<table width="100%" cellpadding="0" cellspacing="8" border="0">
 <tr>
 <td width="25%" align="center" valign="top">
 <table width="100%" bgcolor="#161b22" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363d">
 <tr><td bgcolor="#6C5CE7" height="3"></td></tr>
-<tr><td align="center" height="85">
-<h2>10+</h2>
-<sub><b>PROJECTS BUILT</b></sub>
+<tr><td align="center" height="95">
+<h2><font color="#e6edf3">10+</font></h2>
+<font color="#8b949e"><sub><b>PROJECTS</b></sub></font>
 </td></tr>
 </table>
 </td>
 <td width="25%" align="center" valign="top">
 <table width="100%" bgcolor="#161b22" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363d">
 <tr><td bgcolor="#00D4FF" height="3"></td></tr>
-<tr><td align="center" height="85">
-<h2>3.66</h2>
-<sub><b>CGPA / 4.00</b></sub>
+<tr><td align="center" height="95">
+<h2><font color="#e6edf3">3.66</font></h2>
+<font color="#8b949e"><sub><b>CGPA / 4.00</b></sub></font>
 </td></tr>
 </table>
 </td>
 <td width="25%" align="center" valign="top">
 <table width="100%" bgcolor="#161b22" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363d">
 <tr><td bgcolor="#FF6B9D" height="3"></td></tr>
-<tr><td align="center" height="85">
-<h2>2026</h2>
-<sub><b>GRADUATING</b></sub>
+<tr><td align="center" height="95">
+<h2><font color="#e6edf3">2026</font></h2>
+<font color="#8b949e"><sub><b>GRADUATING</b></sub></font>
 </td></tr>
 </table>
 </td>
 <td width="25%" align="center" valign="top">
 <table width="100%" bgcolor="#161b22" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363d">
 <tr><td bgcolor="#00c853" height="3"></td></tr>
-<tr><td align="center" height="85">
-<h2>4+</h2>
-<sub><b>LEADERSHIP ROLES</b></sub>
+<tr><td align="center" height="95">
+<h2><font color="#e6edf3">6+</font></h2>
+<font color="#8b949e"><sub><b>SHIPPED PROJECTS</b></sub></font>
 </td></tr>
 </table>
 </td>
@@ -85,13 +119,13 @@ Building fast, responsive, and user-focused web applications from Peshawar, Paki
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░  ABOUT  ░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════  01 · ABOUT  ═══════════════════════════ -->
 
-<div align="center">
-
-## <code>01</code> &nbsp; About
-
-</div>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td>
+<font color="#6C5CE7"><b>01</b></font> &nbsp; <font color="#e6edf3"><b>ABOUT</b></font>
+</td></tr>
+</table>
 
 <br/>
 
@@ -103,11 +137,15 @@ Building fast, responsive, and user-focused web applications from Peshawar, Paki
 <tr><td>
 <table width="100%" cellpadding="24" cellspacing="0" border="0"><tr><td>
 
+<font color="#e6edf3">
+
 **Front-End Engineer & MERN Stack Developer** pursuing BS Computer Science at the University of Peshawar, graduating in 2026.
 
-I focus on building tools that solve real problems — from campus library systems to welfare platforms. My approach is guided by three principles: **clean code**, **thoughtful design**, and **seamless UX**.
+I build tools that solve real problems — from campus library systems to welfare platforms. My approach is guided by three principles: **clean code**, **thoughtful design**, and **seamless UX**.
 
 I care deeply about the small details that make interfaces feel right — spacing, typography, performance, and accessibility.
+
+</font>
 
 </td></tr></table>
 </td></tr>
@@ -119,17 +157,27 @@ I care deeply about the small details that make interfaces feel right — spacin
 <tr><td>
 <table width="100%" cellpadding="24" cellspacing="0" border="0"><tr><td>
 
-**Quick Facts**
+<font color="#e6edf3"><b>Quick Facts</b></font>
 
-🎯 &nbsp; **Focus** — Frontend / Full-stack
+<br/><br/>
 
-🏫 &nbsp; **Study** — BS CS @ UoP
+<font color="#e6edf3">🎯 &nbsp; **Focus** — Frontend / Full-stack</font>
 
-🏆 &nbsp; **Award** — PMYLS Laptop 2025
+<br/>
 
-🥈 &nbsp; **Runner-up** — Entrepreneurship
+<font color="#e6edf3">🏫 &nbsp; **Study** — BS CS @ UoP</font>
 
-🌐 &nbsp; **Languages** — Pashto · Urdu · English
+<br/>
+
+<font color="#e6edf3">🏆 &nbsp; **Award** — PMYLS Laptop 2025</font>
+
+<br/>
+
+<font color="#e6edf3">🥈 &nbsp; **Runner-up** — Entrepreneurship</font>
+
+<br/>
+
+<font color="#e6edf3">🌐 &nbsp; **Languages** — Pashto · Urdu · English</font>
 
 </td></tr></table>
 </td></tr>
@@ -140,27 +188,27 @@ I care deeply about the small details that make interfaces feel right — spacin
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░  TECH STACK  ░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════  02 · TECH STACK  ═══════════════════════════ -->
 
-<div align="center">
-
-## <code>02</code> &nbsp; Tech Stack
-
-</div>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td>
+<font color="#6C5CE7"><b>02</b></font> &nbsp; <font color="#e6edf3"><b>TECH STACK</b></font>
+</td></tr>
+</table>
 
 <br/>
 
-<table width="100%" cellpadding="0" cellspacing="6" border="0">
+<table width="100%" cellpadding="0" cellspacing="8" border="0">
 <tr>
 <td width="25%" valign="top">
 <table width="100%" bgcolor="#161b22" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363d">
 <tr><td bgcolor="#6C5CE7" height="3"></td></tr>
 <tr><td align="center">
-<table cellpadding="20" cellspacing="0" border="0"><tr><td align="center">
+<table cellpadding="22" cellspacing="0" border="0"><tr><td align="center">
 
-**FRONTEND**
+<font color="#8b949e"><sub><b>FRONTEND</b></sub></font>
 
-<br/>
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark" height="28" />
 
@@ -172,11 +220,11 @@ I care deeply about the small details that make interfaces feel right — spacin
 <table width="100%" bgcolor="#161b22" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363d">
 <tr><td bgcolor="#00D4FF" height="3"></td></tr>
 <tr><td align="center">
-<table cellpadding="20" cellspacing="0" border="0"><tr><td align="center">
+<table cellpadding="22" cellspacing="0" border="0"><tr><td align="center">
 
-**BACKEND**
+<font color="#8b949e"><sub><b>BACKEND</b></sub></font>
 
-<br/>
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php&theme=dark" height="28" />
 
@@ -188,11 +236,11 @@ I care deeply about the small details that make interfaces feel right — spacin
 <table width="100%" bgcolor="#161b22" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363d">
 <tr><td bgcolor="#FF6B9D" height="3"></td></tr>
 <tr><td align="center">
-<table cellpadding="20" cellspacing="0" border="0"><tr><td align="center">
+<table cellpadding="22" cellspacing="0" border="0"><tr><td align="center">
 
-**CLOUD**
+<font color="#8b949e"><sub><b>CLOUD</b></sub></font>
 
-<br/>
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=firebase,aws,vercel&theme=dark" height="28" />
 
@@ -204,11 +252,11 @@ I care deeply about the small details that make interfaces feel right — spacin
 <table width="100%" bgcolor="#161b22" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363d">
 <tr><td bgcolor="#00c853" height="3"></td></tr>
 <tr><td align="center">
-<table cellpadding="20" cellspacing="0" border="0"><tr><td align="center">
+<table cellpadding="22" cellspacing="0" border="0"><tr><td align="center">
 
-**TOOLS**
+<font color="#8b949e"><sub><b>TOOLS</b></sub></font>
 
-<br/>
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman&theme=dark" height="28" />
 
@@ -221,17 +269,17 @@ I care deeply about the small details that make interfaces feel right — spacin
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░  PROJECTS  ░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════  03 · PROJECTS  ═══════════════════════════ -->
 
-<div align="center">
-
-## <code>03</code> &nbsp; Featured Projects
-
-</div>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td>
+<font color="#6C5CE7"><b>03</b></font> &nbsp; <font color="#e6edf3"><b>FEATURED PROJECTS</b></font>
+</td></tr>
+</table>
 
 <br/>
 
-<!-- ───────────  Row 1  ─────────── -->
+<!-- ────────  Row 1 — Featured  ──────── -->
 
 <table width="100%" cellpadding="0" cellspacing="8" border="0">
 <tr>
@@ -242,20 +290,25 @@ I care deeply about the small details that make interfaces feel right — spacin
 <tr><td>
 <table width="100%" cellpadding="22" cellspacing="0" border="0"><tr><td>
 
-<img src="https://img.shields.io/badge/01-BiblioTrack-6C5CE7?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/LIVE-00c853?style=flat-square" />
+<img src="https://img.shields.io/badge/01-BiblioTrack-6C5CE7?style=flat-square&labelColor=161b22" />
+<img src="https://img.shields.io/badge/SHIPPED-00c853?style=flat-square" />
 
 <br/><br/>
 
-**Smart Library Management System**
+<font color="#e6edf3">**Smart Library Management System**</font>
 
-<sub>A full-stack digital library platform for the CS Department, University of Peshawar — bridging physical books and digital resources.</sub>
+<font color="#8b949e"><sub>A full-stack digital library platform for the CS Department, University of Peshawar.</sub></font>
 
 <br/>
+
+<font color="#e6edf3">
 
 - Dual portals (Admin & Student)
 - Smart search & reservations
 - Auto fines with E-Challan
+- AI chatbot integration
+
+</font>
 
 <br/>
 
@@ -282,20 +335,25 @@ I care deeply about the small details that make interfaces feel right — spacin
 <tr><td>
 <table width="100%" cellpadding="22" cellspacing="0" border="0"><tr><td>
 
-<img src="https://img.shields.io/badge/02-Hassan%20Welfare-FF6B9D?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/02-Hassan%20Welfare-FF6B9D?style=flat-square&labelColor=161b22" />
 <img src="https://img.shields.io/badge/LIVE-00c853?style=flat-square" />
 
 <br/><br/>
 
-**Non-Profit Web Platform**
+<font color="#e6edf3">**Non-Profit Web Platform**</font>
 
-<sub>A modern, responsive website for Hassan Welfare Society — showcasing mission, vision, team members, and donation details.</sub>
+<font color="#8b949e"><sub>A modern, responsive website for Hassan Welfare Society — mission, vision, team, and donations.</sub></font>
 
 <br/>
+
+<font color="#e6edf3">
 
 - Mission & vision sections
 - Team member showcase
 - Donation contribution flow
+- Firebase hosted
+
+</font>
 
 <br/>
 
@@ -320,7 +378,7 @@ I care deeply about the small details that make interfaces feel right — spacin
 
 <br/>
 
-<!-- ───────────  Row 2  ─────────── -->
+<!-- ────────  Row 2  ──────── -->
 
 <table width="100%" cellpadding="0" cellspacing="8" border="0">
 <tr>
@@ -331,19 +389,23 @@ I care deeply about the small details that make interfaces feel right — spacin
 <tr><td>
 <table width="100%" cellpadding="22" cellspacing="0" border="0"><tr><td>
 
-<img src="https://img.shields.io/badge/03-E--Commerce-00D4FF?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/03-E--Commerce-00D4FF?style=flat-square&labelColor=161b22" />
 
 <br/><br/>
 
-**Full-Stack Shop Platform**
+<font color="#e6edf3">**Full-Stack Shop Platform**</font>
 
-<sub>Full-stack e-commerce platform with secure cart and checkout flow, built as part of Web Technologies course.</sub>
+<font color="#8b949e"><sub>E-commerce platform with secure cart and checkout flow.</sub></font>
 
 <br/>
+
+<font color="#e6edf3">
 
 - Secure cart & checkout
 - Mobile-first UI
 - Interactive frontend
+
+</font>
 
 <br/>
 
@@ -367,19 +429,23 @@ I care deeply about the small details that make interfaces feel right — spacin
 <tr><td>
 <table width="100%" cellpadding="22" cellspacing="0" border="0"><tr><td>
 
-<img src="https://img.shields.io/badge/04-BackEnd-00c853?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/04-BackEnd-00c853?style=flat-square&labelColor=161b22" />
 
 <br/><br/>
 
-**REST APIs & Services**
+<font color="#e6edf3">**REST APIs & Services**</font>
 
-<sub>Collection of server-side services and RESTful APIs covering routing, middleware, auth, and CRUD operations.</sub>
+<font color="#8b949e"><sub>Server-side services and RESTful APIs covering routing, middleware, and auth.</sub></font>
 
 <br/>
+
+<font color="#e6edf3">
 
 - RESTful API design
 - MongoDB integration
 - Auth & middleware
+
+</font>
 
 <br/>
 
@@ -401,7 +467,7 @@ I care deeply about the small details that make interfaces feel right — spacin
 
 <br/>
 
-<!-- ───────────  Row 3  ─────────── -->
+<!-- ────────  Row 3  ──────── -->
 
 <table width="100%" cellpadding="0" cellspacing="8" border="0">
 <tr>
@@ -412,20 +478,24 @@ I care deeply about the small details that make interfaces feel right — spacin
 <tr><td>
 <table width="100%" cellpadding="22" cellspacing="0" border="0"><tr><td>
 
-<img src="https://img.shields.io/badge/05-Portfolio-6C5CE7?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/05-Portfolio-6C5CE7?style=flat-square&labelColor=161b22" />
 <img src="https://img.shields.io/badge/LIVE-00c853?style=flat-square" />
 
 <br/><br/>
 
-**Personal Portfolio Website**
+<font color="#e6edf3">**Personal Portfolio Website**</font>
 
-<sub>My personal portfolio — clean, fast, and fully responsive. Built from scratch to showcase projects, skills, and experience.</sub>
+<font color="#8b949e"><sub>My personal portfolio — clean, fast, and fully responsive.</sub></font>
 
 <br/>
+
+<font color="#e6edf3">
 
 - Modern UI design
 - Lightning fast
 - Fully responsive
+
+</font>
 
 <br/>
 
@@ -449,19 +519,23 @@ I care deeply about the small details that make interfaces feel right — spacin
 <tr><td>
 <table width="100%" cellpadding="22" cellspacing="0" border="0"><tr><td>
 
-<img src="https://img.shields.io/badge/06-Practice-FF6B9D?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/06-Practice-FF6B9D?style=flat-square&labelColor=161b22" />
 
 <br/><br/>
 
-**Learning & Experimentation**
+<font color="#e6edf3">**Learning & Experimentation**</font>
 
-<sub>TypeScript, JavaScript, and component-building exercises documenting my learning journey.</sub>
+<font color="#8b949e"><sub>TypeScript, JavaScript, and component-building exercises.</sub></font>
 
 <br/>
+
+<font color="#e6edf3">
 
 - TypeScript practice
 - CodeAlpha tasks
 - CountryInfoHub
+
+</font>
 
 <br/>
 
@@ -483,29 +557,29 @@ I care deeply about the small details that make interfaces feel right — spacin
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░  ACHIEVEMENTS  ░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════  04 · ACHIEVEMENTS  ═══════════════════════════ -->
 
-<div align="center">
-
-## <code>04</code> &nbsp; Achievements
-
-</div>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td>
+<font color="#6C5CE7"><b>04</b></font> &nbsp; <font color="#e6edf3"><b>ACHIEVEMENTS</b></font>
+</td></tr>
+</table>
 
 <br/>
 
-<table width="100%" cellpadding="0" cellspacing="6" border="0">
+<table width="100%" cellpadding="0" cellspacing="8" border="0">
 <tr>
 <td width="33%" align="center" valign="top">
 <table width="100%" bgcolor="#161b22" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363d">
 <tr><td bgcolor="#6C5CE7" height="3"></td></tr>
 <tr><td align="center">
-<table cellpadding="22" cellspacing="0" border="0"><tr><td align="center">
+<table cellpadding="24" cellspacing="0" border="0"><tr><td align="center">
 
 <h1>🎓</h1>
 
-**PMYLS Laptop Scheme**
+<font color="#e6edf3">**PMYLS Laptop Scheme**</font>
 
-<sub>2025 · Academic Excellence</sub>
+<font color="#8b949e"><sub>2025 · Academic Excellence</sub></font>
 
 </td></tr></table>
 </td></tr>
@@ -515,13 +589,13 @@ I care deeply about the small details that make interfaces feel right — spacin
 <table width="100%" bgcolor="#161b22" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363d">
 <tr><td bgcolor="#FF6B9D" height="3"></td></tr>
 <tr><td align="center">
-<table cellpadding="22" cellspacing="0" border="0"><tr><td align="center">
+<table cellpadding="24" cellspacing="0" border="0"><tr><td align="center">
 
 <h1>🥈</h1>
 
-**2nd Place — Entrepreneurship**
+<font color="#e6edf3">**2nd Place — Entrepreneurship**</font>
 
-<sub>Business Plan · Campus Brew</sub>
+<font color="#8b949e"><sub>Business Plan · Campus Brew</sub></font>
 
 </td></tr></table>
 </td></tr>
@@ -531,13 +605,13 @@ I care deeply about the small details that make interfaces feel right — spacin
 <table width="100%" bgcolor="#161b22" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363d">
 <tr><td bgcolor="#00D4FF" height="3"></td></tr>
 <tr><td align="center">
-<table cellpadding="22" cellspacing="0" border="0"><tr><td align="center">
+<table cellpadding="24" cellspacing="0" border="0"><tr><td align="center">
 
 <h1>💻</h1>
 
-**Hackathon Participant**
+<font color="#e6edf3">**Hackathon Participant**</font>
 
-<sub>Coding Night · Saylani Mass IT</sub>
+<font color="#8b949e"><sub>Coding Night · Saylani Mass IT</sub></font>
 
 </td></tr></table>
 </td></tr>
@@ -548,13 +622,13 @@ I care deeply about the small details that make interfaces feel right — spacin
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░  EXPERIENCE  ░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════  05 · EXPERIENCE  ═══════════════════════════ -->
 
-<div align="center">
-
-## <code>05</code> &nbsp; Experience
-
-</div>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td>
+<font color="#6C5CE7"><b>05</b></font> &nbsp; <font color="#e6edf3"><b>EXPERIENCE</b></font>
+</td></tr>
+</table>
 
 <br/>
 
@@ -570,11 +644,19 @@ I care deeply about the small details that make interfaces feel right — spacin
 </td>
 <td width="78%" valign="top">
 
+<font color="#e6edf3">
+
 ### Web Developer · Digital Empowerment Network
 
-<sub>July 2025 – September 2025</sub>
+</font>
+
+<font color="#8b949e"><sub>July 2025 – September 2025</sub></font>
+
+<font color="#e6edf3">
 
 Built responsive UIs with React & Tailwind, developed backend services with Node/Express/MongoDB, integrated Firebase authentication, and followed Agile/SCRUM workflow.
+
+</font>
 
 </td>
 </tr>
@@ -591,11 +673,19 @@ Built responsive UIs with React & Tailwind, developed backend services with Node
 </td>
 <td width="78%" valign="top">
 
+<font color="#e6edf3">
+
 ### Management Lead · Wrapify Labs, UOP Chapter
 
-<sub>February 2026 – Present</sub>
+</font>
+
+<font color="#8b949e"><sub>February 2026 – Present</sub></font>
+
+<font color="#e6edf3">
 
 Lead team for university chapter events, managing logistics, planning, and execution of workshops and competitions.
+
+</font>
 
 </td>
 </tr>
@@ -612,11 +702,19 @@ Lead team for university chapter events, managing logistics, planning, and execu
 </td>
 <td width="78%" valign="top">
 
+<font color="#e6edf3">
+
 ### Event Committee · CSSC — Computer Science Students Club
 
-<sub>February 2025 – Present</sub>
+</font>
+
+<font color="#8b949e"><sub>February 2025 – Present</sub></font>
+
+<font color="#e6edf3">
 
 Organized workshops, hackathons, and technical events for the Computer Science department.
+
+</font>
 
 </td>
 </tr>
@@ -633,11 +731,19 @@ Organized workshops, hackathons, and technical events for the Computer Science d
 </td>
 <td width="78%" valign="top">
 
+<font color="#e6edf3">
+
 ### BS Computer Science · University of Peshawar
 
-<sub>2022 – 2026 · CGPA 3.66 / 4.00</sub>
+</font>
+
+<font color="#8b949e"><sub>2022 – 2026 · CGPA 3.66 / 4.00</sub></font>
+
+<font color="#e6edf3">
 
 Web technologies, software engineering, databases, and applied machine learning (NLP, beginner).
+
+</font>
 
 </td>
 </tr>
@@ -648,13 +754,13 @@ Web technologies, software engineering, databases, and applied machine learning 
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░  GITHUB ANALYTICS  ░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════  06 · GITHUB ANALYTICS  ═══════════════════════════ -->
 
-<div align="center">
-
-## <code>06</code> &nbsp; GitHub Analytics
-
-</div>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td>
+<font color="#6C5CE7"><b>06</b></font> &nbsp; <font color="#e6edf3"><b>GITHUB ANALYTICS</b></font>
+</td></tr>
+</table>
 
 <br/>
 
@@ -715,24 +821,28 @@ Web technologies, software engineering, databases, and applied machine learning 
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░  CONTACT  ░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════  07 · CONTACT  ═══════════════════════════ -->
 
-<div align="center">
-
-## <code>07</code> &nbsp; Let's Connect
-
-</div>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td>
+<font color="#6C5CE7"><b>07</b></font> &nbsp; <font color="#e6edf3"><b>LET'S CONNECT</b></font>
+</td></tr>
+</table>
 
 <br/>
 
 <table width="100%" bgcolor="#161b22" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363d">
 <tr><td bgcolor="#6C5CE7" height="3"></td></tr>
 <tr><td align="center">
-<table width="100%" cellpadding="32" cellspacing="0" border="0"><tr><td align="center">
+<table width="100%" cellpadding="40" cellspacing="0" border="0"><tr><td align="center">
+
+<font color="#e6edf3">
 
 ### Let's build something great together.
 
-<sub>Have a project, a role, or just want to say hi? I'm always open to interesting conversations and new opportunities.</sub>
+</font>
+
+<font color="#8b949e"><sub>Have a project, a role, or just want to say hi? I'm always open to interesting conversations and new opportunities.</sub></font>
 
 <br/><br/>
 
@@ -764,8 +874,22 @@ Web technologies, software engineering, databases, and applied machine learning 
 
 <br/>
 
+<!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=26&fontColor=ffffff&animation=twinkling" width="100%" />
 
 </div>
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+</td>
+</tr>
+</table>
