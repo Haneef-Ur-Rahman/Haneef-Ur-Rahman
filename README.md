@@ -1,71 +1,77 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        HANEEF UR RAHMAN — PORTFOLIO                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║   ██╗  ██╗ █████╗ ███╗   ██╗███████╗███████╗███████╗    ██╗   ██╗██████╗       ║
+║   ██║  ██║██╔══██╗████╗  ██║██╔════╝██╔════╝██╔════╝    ██║   ██║██╔══██╗      ║
+║   ███████║███████║██╔██╗ ██║█████╗  █████╗  █████╗      ██║   ██║██████╔╝      ║
+║   ██╔══██║██╔══██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══╝      ██║   ██║██╔══██╗      ║
+║   ██║  ██║██║  ██║██║ ╚████║███████╗██║     ██║         ╚██████╔╝██║  ██║      ║
+║   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝     ╚═╝          ╚═════╝ ╚═╝  ╚═╝      ║
+║                                                                               ║
+║                    Front-End Engineer · MERN Stack Developer                  ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+-->
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              HERO SECTION                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Haneef-Ur-Rahman/Haneef-Ur-Rahman/main/assets/LinkedIn%20Banner4.png" alt="Haneef Ur Rahman" width="100%" />
 
-<img src="https://raw.githubusercontent.com/Haneef-Ur-Rahman/Haneef-Ur-Rahman/main/assets/LinkedIn%20Banner4.png" alt="Haneef Ur Rahman" width="100%" />
+  <br/><br/>
 
-<br/>
+  <a href="https://github.com/Haneef-Ur-Rahman">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Haneef+Ur+Rahman;Front-End+Engineer;MERN+Stack+Developer;Building+clean+%26+fast+web+apps" alt="Typing SVG" />
+  </a>
 
-<a href="https://github.com/Haneef-Ur-Rahman">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=800&color=6C5CE7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Haneef+Ur+Rahman;Front-End+Engineer;MERN+Stack+Developer;Building+clean+%26+fast+web+apps" alt="Typing SVG" />
-</a>
+  <br/><br/>
 
-<br/>
+  <!-- STATUS BADGES -->
+  <img src="https://img.shields.io/badge/🟢_Available_for-Freelance_%26_Collaboration-00c853?style=flat-square&labelColor=0a0a0f&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍_Peshawar,_Pakistan-6C5CE7?style=flat-square&labelColor=0a0a0f" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎓_CGPA_3.66_/_4.00-00D4FF?style=flat-square&labelColor=0a0a0f" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Haneef-Ur-Rahman?label=Followers&style=flat-square&color=00D4FF&labelColor=0a0a0f" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Haneef-Ur-Rahman&label=Profile%20Views&color=6C5CE7&style=flat-square" />
 
-<!-- Status -->
-<img src="https://img.shields.io/badge/🟢_Available_for-Freelance_%26_Collaboration-00c853?style=for-the-badge&labelColor=0a0a0f" />
-<img src="https://img.shields.io/badge/📍_Location-Peshawar,_Pakistan-6C5CE7?style=for-the-badge&labelColor=0a0a0f" />
-<img src="https://img.shields.io/badge/🎓_CGPA-3.66_/_4.00-00D4FF?style=for-the-badge&labelColor=0a0a0f" />
+  <br/><br/>
 
-<br/><br/>
+  <!-- SOCIAL CONNECT -->
+  <a href="https://haneef-ur-rahman.github.io/my-Portfolio">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-FF5722?style=for-the-badge&labelColor=0a0a0f" />
+  </a>
+  <a href="https://www.linkedin.com/in/haneef-ur-rahman/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0a0a0f" />
+  </a>
+  <a href="mailto:haneef04022004@gmail.com">
+    <img src="https://img.shields.io/badge/📩_Email-haneef04022004@gmail.com-EA4335?style=for-the-badge&logo=gmail&labelColor=0a0a0f" />
+  </a>
+  <a href="https://wa.me/923083336559">
+    <img src="https://img.shields.io/badge/💬_WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&labelColor=0a0a0f" />
+  </a>
 
-<!-- Profile views + followers + stars -->
-<img src="https://komarev.com/ghpvc/?username=Haneef-Ur-Rahman&label=Profile%20views&color=6C5CE7&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/Haneef-Ur-Rahman?label=Followers&style=flat-square&color=00D4FF&labelColor=0a0a0f" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Haneef-Ur-Rahman?label=Total%20Stars&style=flat-square&color=FF6B9D&labelColor=0a0a0f" alt="Stars" />
-
-<br/><br/>
-
-<!-- Social links -->
-<a href="https://haneef-ur-rahman.github.io/my-Portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/haneef-ur-rahman/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:haneef04022004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://wa.me/923083336559">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://linktr.ee/Haneef_Ur_Rahman">
-  <img src="https://img.shields.io/badge/Linktree-All_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
-</a>
-
+  <br/><br/>
 </div>
-
-<br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                                ABOUT ME                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              ABOUT ME                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-## 👨‍💻 About Me
-
+  <h2>👨‍💻 About Me</h2>
+  <p><i>"I turn ideas into clean, working products."</i></p>
 </div>
 
 <table>
 <tr>
 <td width="55%" valign="top">
-
-> **I turn ideas into clean, working products.**
 
 I'm a **Front-End Engineer** and **MERN Stack Developer** from Peshawar, Pakistan — currently pursuing **BS Computer Science** at the **University of Peshawar** (CGPA: 3.66/4.00, graduating 2026).
 
@@ -108,55 +114,48 @@ I love building tools that solve real problems — from campus library systems t
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                               TECH STACK                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                            TECH STACK                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+  <h2>🛠️ Tech Stack</h2>
 
-## 🛠️ Tech Stack
+  **Frontend**
 
-**Frontend**
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark" />
+  <br/><br/>
 
-<br/><br/>
+  **Backend & Database**
 
-**Backend & Database**
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php&theme=dark" />
+  <br/><br/>
 
-<br/><br/>
+  **Cloud, Tools & Design**
 
-**Cloud, Tools & Design**
+  <img src="https://skillicons.dev/icons?i=firebase,aws,git,github,figma,vscode,postman&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=firebase,aws,git,github,figma,vscode,postman&theme=dark" />
+  <br/><br/>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-`REST APIs` • `JWT Auth` • `Firebase Auth` • `Firestore` • `Agile / SCRUM` • `Version Control` • `Responsive Design`
-
+  <code>REST APIs</code> · <code>JWT Auth</code> · <code>Firebase Auth</code> · <code>Firestore</code> · <code>Agile / SCRUM</code> · <code>Version Control</code> · <code>Responsive Design</code>
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                            FEATURED PROJECTS                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         FEATURED PROJECTS                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-## 🚀 Featured Projects
-
-*Things I've designed, coded & shipped. More on [GitHub →](https://github.com/Haneef-Ur-Rahman?tab=repositories)*
-
+  <h2>🚀 Featured Projects</h2>
+  <p><i>Things I've designed, coded & shipped. More on <a href="https://github.com/Haneef-Ur-Rahman?tab=repositories">GitHub →</a></i></p>
 </div>
 
-<!-- Project 1 — BiblioTrack -->
+<br/>
+
+<!-- Project 1 — BiblioTrack (Full Width) -->
 <table>
 <tr>
 <td width="100%">
@@ -197,7 +196,9 @@ I love building tools that solve real problems — from campus library systems t
 </tr>
 </table>
 
-<!-- Project 2 — Hassan Welfare -->
+<br/>
+
+<!-- Project 2 — Hassan Welfare (Full Width) -->
 <table>
 <tr>
 <td width="100%">
@@ -237,7 +238,9 @@ I love building tools that solve real problems — from campus library systems t
 </tr>
 </table>
 
-<!-- Projects 3 & 4 -->
+<br/>
+
+<!-- Projects 3 & 4 (Two Column Grid) -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -289,7 +292,9 @@ A collection of server-side services & RESTful APIs.
 </tr>
 </table>
 
-<!-- Projects 5 & 6 -->
+<br/>
+
+<!-- Projects 5 & 6 (Two Column Grid) -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -344,14 +349,12 @@ TypeScript, JS & component-building exercises.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         EXPERIENCE & JOURNEY                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         EXPERIENCE & JOURNEY                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-## 💼 Experience & Journey
-
+  <h2>💼 Experience & Journey</h2>
 </div>
 
 <table>
@@ -394,70 +397,68 @@ TypeScript, JS & component-building exercises.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                             GITHUB STATS                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                            GITHUB ANALYTICS                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+  <h2>📊 GitHub Analytics</h2>
 
-## 📊 GitHub Analytics
+  <br/>
 
-<br/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Haneef-Ur-Rahman&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=6C5CE7&icon_color=00D4FF&text_color=e8e8f0" alt="GitHub Stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haneef-Ur-Rahman&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=6C5CE7&text_color=e8e8f0&langs_count=8" alt="Top Languages" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Haneef-Ur-Rahman&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=6C5CE7&icon_color=00D4FF&text_color=e8e8f0" alt="GitHub Stats" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haneef-Ur-Rahman&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=6C5CE7&text_color=e8e8f0&langs_count=8" alt="Top Languages" />
+  <br/>
 
-<br/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Haneef-Ur-Rahman&theme=radical&hide_border=true&background=0a0a0f&stroke=6C5CE7&ring=00D4FF&fire=FF6B9D&currStreakLabel=00D4FF" alt="GitHub Streak" />
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Haneef-Ur-Rahman&theme=radical&hide_border=true&background=0a0a0f&stroke=6C5CE7&ring=00D4FF&fire=FF6B9D&currStreakLabel=00D4FF" alt="GitHub Streak" />
+  <br/>
 
-<br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Haneef-Ur-Rahman&bg_color=0a0a0f&color=00D4FF&line=6C5CE7&point=FF6B9D&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
-
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Haneef-Ur-Rahman&bg_color=0a0a0f&color=00D4FF&line=6C5CE7&point=FF6B9D&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                              CONTACT                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              CONTACT                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+  <h2>📫 Let's Build Something Great Together</h2>
 
-## 📫 Let's Build Something Great Together
+  <br/>
 
-<br/>
+  > 💬 Have a project, a role, or just want to say hi?
+  > I'm always open to interesting conversations and new opportunities.
 
-> 💬 Have a project, a role, or just want to say hi?  
-> I'm always open to interesting conversations and new opportunities.
+  <br/>
 
-<br/>
-
-<a href="mailto:haneef04022004@gmail.com">
-  <img src="https://img.shields.io/badge/📩_Email-haneef04022004@gmail.com-EA4335?style=for-the-badge&labelColor=0a0a0f" />
-</a>
-<br/><br/>
-<a href="https://wa.me/923083336559">
-  <img src="https://img.shields.io/badge/💬_WhatsApp-+92_308_3336559-25D366?style=for-the-badge&labelColor=0a0a0f" />
-</a>
-<br/><br/>
-<a href="https://www.linkedin.com/in/haneef-ur-rahman/">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-haneef--ur--rahman-0A66C2?style=for-the-badge&labelColor=0a0a0f" />
-</a>
-<br/><br/>
-<a href="https://github.com/Haneef-Ur-Rahman?tab=repositories">
-  <img src="https://img.shields.io/badge/📂_All_Repos-Browse_Now-181717?style=for-the-badge&logo=github&labelColor=0a0a0f" />
-</a>
-
+  <a href="mailto:haneef04022004@gmail.com">
+    <img src="https://img.shields.io/badge/📩_Email-haneef04022004@gmail.com-EA4335?style=for-the-badge&labelColor=0a0a0f" />
+  </a>
+  <br/><br/>
+  <a href="https://wa.me/923083336559">
+    <img src="https://img.shields.io/badge/💬_WhatsApp-+92_308_3336559-25D366?style=for-the-badge&labelColor=0a0a0f" />
+  </a>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/haneef-ur-rahman/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-haneef--ur--rahman-0A66C2?style=for-the-badge&labelColor=0a0a0f" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/Haneef-Ur-Rahman?tab=repositories">
+    <img src="https://img.shields.io/badge/📂_All_Repos-Browse_Now-181717?style=for-the-badge&logo=github&labelColor=0a0a0f" />
+  </a>
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
+  <i>⭐ From <a href="https://github.com/Haneef-Ur-Rahman">Haneef Ur Rahman</a> — Thanks for visiting my profile!</i>
 
-### ⭐ From [Haneef Ur Rahman](https://github.com/Haneef-Ur-Rahman) — Thanks for visiting my profile!
+  <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" />
 </div>
